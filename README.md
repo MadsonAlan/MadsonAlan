@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working at [Petruz Fruity](http://petruz.com/en)
 
-- 👨‍💻 All of my projects are available at [my portifolio](https://vscode-portfolio-madson.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portifolio](https://portifolio-madson.vercel.app/)
 
 - ▶️ I have a youtube channel but I have to go back to creating videos [my channel](https://www.youtube.com/channel/UC_z9DxrMB85Linl3speUb2Q)
 
