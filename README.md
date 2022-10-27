@@ -53,13 +53,13 @@
 <p align="left">
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madsonAlan&theme=github_dark" alt="MadsonAlan's profile details"/>
 </p>
-<p align="left">
-<img width="430rem" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madsonAlan&theme=github_dark" alt="MadsonAlan's repos per language"/>
-<img width="430rem" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madsonAlan&theme=github_dark" alt="MadsonAlan's most comit languages"/>
+<p align="center">
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madsonAlan&theme=github_dark" alt="MadsonAlan's repos per language"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madsonAlan&theme=github_dark" alt="MadsonAlan's most comit languages"/>
 </p>
-<p align="left">
-<img width="430rem" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madsonAlan&theme=github_dark" alt="MadsonAlan's stats"/>
-<img width="430rem" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madsonAlan&theme=github_dark&utcOffset=8" alt="MadsonAlan's productive time"/>
+<p align="center">
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madsonAlan&theme=github_dark" alt="MadsonAlan's stats"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madsonAlan&theme=github_dark&utcOffset=8" alt="MadsonAlan's productive time"/>
 </p>
   
  
