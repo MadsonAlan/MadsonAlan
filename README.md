@@ -17,9 +17,9 @@
 
 - 🔥 Developer Full Stack Web focused in front-end 
 
-- 🌱 I'm currently learning more Docker, GraphQL and Storybook
+- 🌱 I'm currently learning more Docker and Java 
 
-- 🔭 I’m currently working at [Petruz Fruity](http://petruz.com/en)
+- 🔭 I’m currently working at [FADESP | SEFA ](http://www.sefa.pa.gov.br/)
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://portfolio-madson.vercel.app/)
 
