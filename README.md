@@ -23,8 +23,6 @@
 
 - 👨‍💻 All of my projects are available at [my portifolio](https://portfolio-madson.vercel.app/)
 
-- ▶️ I have a youtube channel but I have to go back to creating videos [my channel](https://www.youtube.com/channel/UC_z9DxrMB85Linl3speUb2Q)
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
