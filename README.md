@@ -17,7 +17,7 @@
 
 - 🔥 Developer Full Stack Web focused in back-end 
 
-- 🌱 I'm currently learning more Java and Angular
+- 🌱 I'm currently learning more Java and Oracle DB
 
 - 🔭 I’m currently working at [FADESP | SEFA ](http://www.sefa.pa.gov.br/)
 
